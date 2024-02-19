@@ -1,5 +1,9 @@
 title: Tanmay Jain
 logo: /assets/img/prof_pic.jpg
-#description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
+# description: "Socials: "
+social:
+  github: https://github.com/tanmaydoesai
+  twitter: https://twitter.com/tanmaydoesai
+  linkedin: https://linkedin.com/in/tanmaydoesai
