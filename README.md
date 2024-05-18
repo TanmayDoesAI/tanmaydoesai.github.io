@@ -4,7 +4,7 @@ Welcome to my portfolio! I'm a passionate data science and machine learning enth
 
 ## Work Experience
 ### Computer Vision Intern
-#### OneDose, Jaipur *(January 2024 -- Present)*
+#### OneDose, Jaipur *(January 2024 -- April 2024)*
 - Implementing and experimenting with various computer vision models for the development of a pill detection quality check system, with a focus on the YOLO (You Only Look Once) algorithm.
 - Explored multiple computer vision techniques and models to optimize pill detection accuracy and efficiency.
 - Building and refining a comprehensive pipeline for efficient pill detection and quality assessment.
